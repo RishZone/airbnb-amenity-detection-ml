@@ -18,9 +18,6 @@ To see the major pieces of the puzzle (data downloading, preprocessing, modellin
 
 You can also see a [live and deployed app which uses the model](https://airbnb-amenity-detection.appspot.com/) (note: this may have been taken down by the time you check it due to costs, an extension would be finding a way to deply the model for little to no costs).
 
-If the deployed application doesn't work, you can watch [this video](https://youtu.be/smlQbh6jQvg) to get an idea:
-
-[![deploying the airbnb amenity detection machine learning app on youtube](http://img.youtube.com/vi/smlQbh6jQvg/0.jpg)](http://www.youtube.com/watch?v=smlQbh6jQvg "I got my machine learning model deployed! | Airbnb Amenity Detection Part 8")
 
 ## What's in this repo?
 
