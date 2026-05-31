@@ -6,7 +6,7 @@ This repository contains all the code from a [42-day project](https://www.mrdbou
 
 Sample image taken from: https://www.airbnb.com/rooms/2151100
 
-**What's amenity detection?**
+**What's amenity detection ?**
 
 Object detection but for common and useful household items someone looking for an Airbnb rental might want to know about. For example, does this home have a fireplace?
 
