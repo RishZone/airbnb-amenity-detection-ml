@@ -1,6 +1,6 @@
 # Replicating Airbnb's Amenity Detection with Detectron2 👁 🛏
 
-This repository contains all the code from a [52-day project](https://www.mrdbourke.com/42days) to replicate Airbnb's amenity detection using [Detectron2](https://github.com/facebookresearch/detectron2).
+This repository contains all the code from a [42-day project](https://www.mrdbourke.com/42days) to replicate Airbnb's amenity detection using [Detectron2](https://github.com/facebookresearch/detectron2).
 
 ![example of how amenities might be detected in an image](https://raw.githubusercontent.com/mrdbourke/airbnb-amenity-detection/master/custom_images/airbnb-amenity-detection-workflow-large.png)
 
